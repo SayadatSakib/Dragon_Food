@@ -1,0 +1,9 @@
+Admin Panel:
+
+Email: akash@gmail.com
+Password: 123
+
+Manager Panel:
+
+Email: ruyhanur@gmail.com
+Password: 123
